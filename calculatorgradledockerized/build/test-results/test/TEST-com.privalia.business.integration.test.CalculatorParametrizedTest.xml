@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.privalia.business.integration.test.CalculatorParametrizedTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-09-21T13:15:14" hostname="MacBook-Pro-Francesc-Niubo.local" time="0.013">
+  <properties/>
+  <testcase name="[0] 0, 0, 0 (shouldReturnCorrectSum)" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.002"/>
+  <testcase name="[1] 1, 1, 2 (shouldReturnCorrectSum)" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <testcase name="[0] 4, 6, 24 (shouldReturnCorrectMultiply)" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.001"/>
+  <testcase name="[1] 3, 5, 15 (shouldReturnCorrectMultiply)" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <testcase name="[0] 4, 2, 2 (shouldReturnCorrectSubstract)" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.001"/>
+  <testcase name="[1] 4, 1, 3 (shouldReturnCorrectSubstract)" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.001"/>
+  <testcase name="[0] 10, 5, 2 (shouldReturnCorrectDivide)" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <testcase name="[1] 8, 2, 4 (shouldReturnCorrectDivide)" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

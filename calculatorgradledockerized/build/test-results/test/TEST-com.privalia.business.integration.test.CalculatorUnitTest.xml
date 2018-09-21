@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.privalia.business.integration.test.CalculatorUnitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-09-21T13:15:14" hostname="MacBook-Pro-Francesc-Niubo.local" time="0.118">
+  <properties/>
+  <testcase name="testAdd" classname="com.privalia.business.integration.test.CalculatorUnitTest" time="0.116"/>
+  <testcase name="testSubstract" classname="com.privalia.business.integration.test.CalculatorUnitTest" time="0.001"/>
+  <testcase name="testDivide" classname="com.privalia.business.integration.test.CalculatorUnitTest" time="0.0"/>
+  <testcase name="testMultiply" classname="com.privalia.business.integration.test.CalculatorUnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

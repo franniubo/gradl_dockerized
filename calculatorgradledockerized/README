@@ -1,0 +1,1 @@
+Execute: docker run franprivalia/gradle_calculator_dockerized
